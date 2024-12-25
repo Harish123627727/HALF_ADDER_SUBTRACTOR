@@ -75,8 +75,12 @@ Figure -02 HALF Subtractor
 ![image](https://github.com/user-attachments/assets/8a6f333b-db75-4ae6-adc3-65d24616e465)
 
 **TIMING DIAGRAM**
+
+
 ![image](https://github.com/user-attachments/assets/25661360-1a69-403f-9bd8-e48614378eef)
 
 **RESULT:**
+
+
 Designed and verified the half adder & half subractor circuit and its truth table in quartus Il using
  Verilog programming successfully
