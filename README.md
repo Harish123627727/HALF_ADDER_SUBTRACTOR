@@ -49,16 +49,24 @@ Figure -02 HALF Subtractor
 
 
 **PROGRAM:**
+
+
 ![Screenshot (30)](https://github.com/user-attachments/assets/c9380545-0e96-498d-9fd8-d7ef42936ca1)
 
 **HALF ADDER:**
+
+
 ![Screenshot (32)](https://github.com/user-attachments/assets/a27fe457-2d11-4e8a-91c1-2095ca3b089d)
 
 **HALF SUBRACTOR**
+
+
 ![image](https://github.com/user-attachments/assets/a2f59f3f-d880-41b3-aa8a-107e67ccc3de)
 
 
 **RTL REALIZATION OUTPUT**
+
+
 ![image](https://github.com/user-attachments/assets/8a6f333b-db75-4ae6-adc3-65d24616e465)
 
 **TIMING DIAGRAM**
